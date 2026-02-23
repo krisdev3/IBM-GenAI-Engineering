@@ -1,0 +1,15 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python leftovers
+__pycache__/
+*.pyc
+
+# Personal Notes
+notes.txt
+private_notes/
+
+# Secrets
+.env
